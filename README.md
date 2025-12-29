@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asim Kamal</h1>
 <h3 align="center">A passionate frontend and backend developer from Pakistan.</h3>
+<img width="800" height="474" align="right" alt="image" src="https://github.com/user-attachments/assets/50c7bc5c-a493-4227-834b-a2a9267dcd4c" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masimkamal74-kcc&label=Profile%20views&color=0e75b6&style=flat" alt="masimkamal74-kcc" /> </p>
 
