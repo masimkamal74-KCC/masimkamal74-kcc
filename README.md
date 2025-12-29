@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com-asim-kamal-22076837a](https://www.linkedin.com-asim-kamal-22076837a)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/asim-kamal-22076837a](www.linkedin.com/in/asim-kamal-22076837a)
 
 - 📫 How to reach me **masimkamal74@gmail.com**
 
